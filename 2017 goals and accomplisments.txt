@@ -1,0 +1,94 @@
+TECHNOLOGIES:
+Graphql
+Vue.js
+Js generators
+SOLID principles
+TDD
+Simple Agile
+LESS
+SCSS
+-------------------------------------------------
+SITES:
+Dev.to
+
+
+-------------------------------------------------
+BOOKS:
+Clean code by Robert c martin
+
+
+-------------------------------------------------
+GENERAL:
+Finish stuff I started in 2016
+Finish a nano degree
+Build a game: three.js, easle.js, construct 2,pixi.js
+	http://blog.sklambert.com/galaxian-html5-game/ (5 part tutorial)
+
+Complete http://goodheads.io/2016/06/01/build-youtube-part-1/
+Complete https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/
+javascriptissexy articles
+Complete Angular 1.x: https://thinkster.io/a-better-way-to-learn-angularjs
+Complete Angular 2:   https://thinkster.io/tutorials/learn-angular-2
+webpack
+gulp
+typescript
+codewars.com
+codekata
+https://thinkster.io/a-better-way-to-learn-angularjs
+java testing
+javascript testing
+Amazon AWS
+Coursera courses
+edx courses
+Javascript 30
+fetch api
+-------------------------------------------------
+Dev accomplishments
+
+Books:
+Mastering Javascript
+	chapter 1
+	
+
+Articles:
+http://javascriptissexy.com/javascript-objects-in-detail/   January 6, 2017
+
+
+
+Tutorials:
+Udemy - learn-nodejs-by-building-10-projects:
+	project 1: simple server
+	project 2: simple website  Jan 11, 2017
+
+Goodheads.io - Build your own you tube
+	Part 1. Jan 11, 2017
+
+Video Rental Refactor: 
+https://www.youtube.com/playlist?annotation_id=annotation_4254052229&feature=iv&list=PLwAX_Bwbts_fNLKqMKJiZhktM6rJIN0_s&src_vid=EQ4sN8fgXKY
+Part 1: Jan 13, 2017
+
+FizzBuzz TDD:
+http://www.codekatas.org/casts/code-kata-fizzbuzz-by-lets-develop (java TDD)  Jan 13, 2017
+
+Udacity - Javascript Testing   Jan 13, 2017
+Udacity - Promises
+
+Galaxian Style Html5 Game:
+http://blog.sklambert.com/galaxian-html5-game/
+
+Node Crud App:
+https://zellwk.com/blog/crud-express-mongodb/
+Part 1: Jan 20, 2017
+
+https://aws.amazon.com/dynamodb/getting-started/
+
+
+https://run.qwiklab.com/dashboard
+
+Projects:
+
+
+
+18887221787 severance operations group
+npm --proxy http://ZKWFZPJ:muh4mm4d@webproxy.bankofamerica.com:8080 --without-ssl --insecure -g install
+
