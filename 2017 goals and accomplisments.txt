@@ -93,6 +93,5 @@ Projects:
 
 
 
-18887221787 severance operations group
-npm --proxy http://ZKWFZPJ:muh4mm4d@webproxy.bankofamerica.com:8080 --without-ssl --insecure -g install
+npm install --registry https://registry.npmjs.org
 
