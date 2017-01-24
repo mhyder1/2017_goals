@@ -17,6 +17,13 @@ BOOKS:
 Clean code by Robert c martin
 
 
+RESUME SKILLS:
+Java/J2EE
+Spring
+JQuery
+JavaScript
+HTML/CSS
+React JS or Angular JS.
 -------------------------------------------------
 GENERAL:
 Finish stuff I started in 2016
