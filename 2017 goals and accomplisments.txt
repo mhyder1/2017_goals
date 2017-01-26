@@ -45,6 +45,13 @@ https://run.qwiklab.com/dashboard
 
 Risingstack Node book
 https://resources.risingstack.com/Node_Hero+-+The+complete+Node.js+tutorial+series+from+RisingStack.pdf
+
+http://www.bradoncode.com/tutorials/mean-stack-tutorial-part-1-setup/
+
+http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/
+
+https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-1
+
 webpack
 gulp
 typescript
@@ -61,6 +68,8 @@ ES6
 react
 passportjs
 redis
+bitnami mean stack cloud
+MEANJS
 -------------------------------------------------
 Dev accomplishments
 
