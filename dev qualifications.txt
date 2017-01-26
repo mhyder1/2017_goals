@@ -1,0 +1,20 @@
+HTML, CSS, and JS
+
+Backbone, Marionette, Angular 1 or 2, React, and Ember.
+
+npm, grunt/gulp, bower, yeoman, webpack/systemjs
+
+Web Content Accessibility Guidelines (WCAG)
+
+Responsive Web Design
+
+Experience implementing business critical, high volume, and highly available web-based applications is a must. 
+
+Test Driven Development (TDD) and testing tools such as Mocha/Chai or Jasmine.
+
+cloud based development leveraging Cloud Foundry in PaaS environment.
+
+RTC for source control
+
+experience working on agile teams is very desirable.  
+
