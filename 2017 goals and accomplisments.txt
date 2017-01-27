@@ -32,7 +32,7 @@ Build a game: three.js, easle.js, construct 2,pixi.js
 	http://blog.sklambert.com/galaxian-html5-game/ (5 part tutorial)
 
 Complete http://goodheads.io/2016/06/01/build-youtube-part-1/
-Complete https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/
+
 javascriptissexy articles
 Complete Angular 1.x: https://thinkster.io/a-better-way-to-learn-angularjs
 Complete Angular 2:   https://thinkster.io/tutorials/learn-angular-2
@@ -63,13 +63,27 @@ Amazon AWS
 Coursera courses
 edx courses
 Javascript 30
+-------------- Completed Jan 27, 2017 -------
 fetch api
+https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
+
+default call is GET
+
+fetch(url).then(function(data){
+	//handle request
+}).catch(function(){
+	//handle error
+})
+
+--------------------------------------------
 ES6
 react
 passportjs
 redis
 bitnami mean stack cloud
 MEANJS
+backbone
+knockout
 -------------------------------------------------
 Dev accomplishments
 
@@ -109,6 +123,8 @@ https://zellwk.com/blog/crud-express-mongodb/  (blocked at work)
 Part 1: Jan 20, 2017
 
 
+https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/
+Started off well but as the tutorials advanced I couldnt really follow. Jan 27, 2017
 
 Coursera full stack:
 Assignment 1: Jan 25, 2017
