@@ -7,6 +7,7 @@ TDD
 Simple Agile
 LESS
 SCSS
+Python
 -------------------------------------------------
 SITES:
 Dev.to
@@ -85,6 +86,16 @@ MEANJS
 backbone
 knockout
 -------------------------------------------------
+DB TOOLS 
+compose.io, mlab (managed hosting)
+
+faunaDB, dynamoDB, documentDB (db as a service)
+
+parse, firebase, meteor (paas, platform as a service)
+
+-------------------------------------------------
+
+
 Dev accomplishments
 
 Books:
