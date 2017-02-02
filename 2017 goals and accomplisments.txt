@@ -8,6 +8,20 @@ Simple Agile
 LESS
 SCSS
 Python
+
+npm
+https://egghead.io/lessons/tools-run-the-basic-npm-scripts (video 1-10: Feb 2, 2017)
+
+------------------------------------------------
+JAVA STUFF:
+Maven 
+	http://javapapers.com/jee/download-install-and-setup-maven/   	Feb 2, 2017
+	http://javapapers.com/jee/maven-in-10-minutes/			Feb 2, 2017
+	http://javapapers.com/java/import-maven-project-into-eclipse/	Feb 2, 2017
+	https://maven.apache.org/guides/getting-started/
+	
+
+Spring
 -------------------------------------------------
 SITES:
 Dev.to
@@ -25,6 +39,12 @@ JQuery
 JavaScript
 HTML/CSS
 React JS or Angular JS.
+---------------------------------------------
+handlebars
+	http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/
+
+foundation
+subversion
 -------------------------------------------------
 GENERAL:
 Finish stuff I started in 2016
