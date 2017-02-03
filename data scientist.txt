@@ -1,0 +1,6 @@
+Hadoop
+Spark
+Big Data Analytics
+Python
+Data Mining/ Data Warehouse
+R
