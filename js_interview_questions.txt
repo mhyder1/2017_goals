@@ -1,0 +1,36 @@
+bind, call, apply
+
+how THIS works
+
+prototype inheritance
+
+closure, how  and why to use
+
+event bubbling
+event delagation
+event propagation
+
+falsy values
+truthy values
+
+advantages/disadvantages of using ajax
+
+how jsonp works
+
+hoisting
+
+attribute, property difference
+
+use strict, advantages/disadvantages
+
+single page app, how to make seo friendly
+
+promises
+
+mutalbe, immutable
+
+unit test, functional/integration test difference
+
+service workers
+
+vertically align

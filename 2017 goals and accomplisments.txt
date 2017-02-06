@@ -160,6 +160,16 @@ Started off well but as the tutorials advanced I couldnt really follow. Jan 27, 
 Coursera full stack:
 Assignment 1: Jan 25, 2017
 
+Zurb foundation:
+https://webdesign.tutsplus.com/articles/foundation-for-beginners-getting-started--webdesign-12431
+https://webdesign.tutsplus.com/articles/foundation-for-beginners-the-grid-system--webdesign-12438
+
+Introducing Zurb Foundation 6 (book)
+chapter 1: Feb 6, 2017
+
+
+
+-----------------------------------------
 Projects:
 
 
