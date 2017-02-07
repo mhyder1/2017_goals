@@ -1,10 +1,14 @@
 bind, call, apply
+http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/
 
 how THIS works
+http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
 
 prototype inheritance
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 
 closure, how  and why to use
+https://howtonode.org/why-use-closure
 
 event bubbling
 event delagation
@@ -16,10 +20,12 @@ truthy values
 advantages/disadvantages of using ajax
 
 how jsonp works
+https://schier.co/blog/2013/09/30/how-jsonp-works.html
 
 hoisting
 
 attribute, property difference
+http://lucybain.com/blog/2014/attribute-vs-property/
 
 use strict, advantages/disadvantages
 
@@ -32,5 +38,7 @@ mutalbe, immutable
 unit test, functional/integration test difference
 
 service workers
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
+https://www.sitepoint.com/getting-started-with-service-workers/
 
 vertically align
