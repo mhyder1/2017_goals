@@ -10,12 +10,18 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prot
 closure, how  and why to use
 https://howtonode.org/why-use-closure
 
-event bubbling
+event bubbling: events make their way up the DOM
 event delagation
 event propagation
 
 falsy values
 truthy values
+
+undefined
+undeclared
+null
+
+JS data types: string, number, boolean, null, undefined
 
 advantages/disadvantages of using ajax
 
@@ -40,5 +46,7 @@ unit test, functional/integration test difference
 service workers
 https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
 https://www.sitepoint.com/getting-started-with-service-workers/
+
+promise/A+ compliant
 
 vertically align

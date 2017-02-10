@@ -12,6 +12,10 @@ Python
 npm
 https://egghead.io/lessons/tools-run-the-basic-npm-scripts (video 1-10: Feb 2, 2017)
 
+
+Promises:
+https://developers.google.com/web/fundamentals/getting-started/primers/promises#whats-all-the-fuss-about
+
 ------------------------------------------------
 JAVA STUFF:
 Maven 
@@ -159,6 +163,7 @@ Started off well but as the tutorials advanced I couldnt really follow. Jan 27, 
 
 Coursera full stack:
 Assignment 1: Jan 25, 2017
+Assignment 2: Feb 08, 2017
 
 Zurb foundation:
 https://webdesign.tutsplus.com/articles/foundation-for-beginners-getting-started--webdesign-12431
@@ -167,7 +172,8 @@ https://webdesign.tutsplus.com/articles/foundation-for-beginners-the-grid-system
 Introducing Zurb Foundation 6 (book)
 chapter 1: Feb 6, 2017
 
-
+Mithril(SPAF)
+http://mithril.js.org/simple-application.html  Feb 10, 2017
 
 -----------------------------------------
 Projects:
