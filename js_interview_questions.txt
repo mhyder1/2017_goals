@@ -1,5 +1,13 @@
 bind, call, apply
 http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/
+-object methods
+-apply and call are similar, used to set "this" value explicitly
+-bind used to set the "this" value on methods user.showData.bind(user)// bind "this" to user
+-you can borrow methods with bind. add method from another object with bind (better to use call or apply)
+-bind allows us to curry a function (preset one or more parameters)
+-first parameter of bind() sets the 'this' value, use null if youre not using 'this'
+
+
 
 how THIS works
 http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
@@ -7,12 +15,17 @@ http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-
 prototype inheritance
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 
+
 closure, how  and why to use
 https://howtonode.org/why-use-closure
+http://stackoverflow.com/questions/111102/how-do-javascript-closures-work
 
-event bubbling: events make their way up the DOM
-event delagation
-event propagation
+
+event bubbling: events make their way up the DOM, good when elements are added dynamically
+event delagation: event for child can be handled by parent
+event propagation: same as bubbling
+http://stackoverflow.com/questions/1687296/what-is-dom-event-delegation
+
 
 falsy values
 truthy values
@@ -28,7 +41,7 @@ advantages/disadvantages of using ajax
 how jsonp works
 https://schier.co/blog/2013/09/30/how-jsonp-works.html
 
-hoisting
+hoisting: declarations moved to top of current context
 
 attribute, property difference
 http://lucybain.com/blog/2014/attribute-vs-property/

@@ -109,6 +109,9 @@ bitnami mean stack cloud
 MEANJS
 backbone
 knockout
+
+Jade
+https://webapplog.com/jade/
 -------------------------------------------------
 DB TOOLS 
 compose.io, mlab (managed hosting)
@@ -175,9 +178,20 @@ chapter 1: Feb 6, 2017
 Mithril(SPAF)
 http://mithril.js.org/simple-application.html  Feb 10, 2017
 
+Programming interveiws exposed(book)
+chapter 1: Feb 13, 2017
+chapter 2: Feb 13, 2017
+
 -----------------------------------------
 Projects:
 
+
+-------------------------------------------
+Sitepoint:
+https://www.sitepoint.com/node-js-mvc-application/
+
+
+scotch.io
 
 
 npm install --registry https://registry.npmjs.org
