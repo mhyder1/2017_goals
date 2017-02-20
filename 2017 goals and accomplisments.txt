@@ -16,6 +16,10 @@ https://egghead.io/lessons/tools-run-the-basic-npm-scripts (video 1-10: Feb 2, 2
 Promises:
 https://developers.google.com/web/fundamentals/getting-started/primers/promises#whats-all-the-fuss-about
 
+-----------------------------------------------
+INTRESTING TECH:
+falcor (netflix data fetching)
+
 ------------------------------------------------
 JAVA STUFF:
 Maven 
