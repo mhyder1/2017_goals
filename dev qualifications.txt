@@ -17,4 +17,41 @@ cloud based development leveraging Cloud Foundry in PaaS environment.
 RTC for source control
 
 experience working on agile teams is very desirable.  
+-----------------------------------------------------
+Skills – Proficient in:
+· JavaScript (including NodeJS and ReactJS)
+· HTML5 & CSS
+· MySQL
+· SQL
+· Docker
+· Webpack
+· Linux
+
+
+Qualifications:
+· Experienced in scalable, high-availability back end technologies MySQL / SQL 
+· DB schema / DB Performance 
+· Must understand Linux environment
+· Strong javascript back end development experience specifically NodeJS (6.x) 
+· Asynchronous coding including Promises
+· Front end development experience including ReactJS, Webpack, HTML5, CSS, Accessibility and Responsive Layouts
+· Comfort with cloud techniques (AWS) and able to ship code in fast cycles
+· Must be adept at creating stateless and secure experiences interfacing with highly scalable back-end systems
+· Write code in a Docker container to allow for AWS capabilities 
+- Strong understanding of server side software, scalability, performance, and reliability
+
+Responsibilities Include: 
+•	CODE! Write code across the full stack – front end Web UI, middle tier service layer, and back-end database
+•	Collaborate with team of full stack developers to design, develop, unit test, and support new features in a test driven development environment
+•	Develop scalable, fast, robust web-based solutions
+•	Utilize agile software development best practices and work with team members to understand business needs and user stories
+•	Responsible for performance tuning, testing, refactoring, usability, and automation
+•	Support, maintain, and help document software functionality
+•	Maintain coding, compliance, & security standards
+•	Work with other departments, stakeholders, and customers on software development, improvements, internal tools, and implementation issues
+•	Maintenance and on-going support of past and future technical solutions
+•	Proactively learn product frameworks and code base
+•	Build code in containers (Docker)
+•	Work in a Test Driven Development and Continuous Integration environment
+----------------------------------------------------
 
