@@ -77,7 +77,10 @@ http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nod
 
 https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-1
 
-webpack
+WEBPACK (also see Require.js and Browserify)
+https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/
+
+
 gulp
 typescript
 codewars.com

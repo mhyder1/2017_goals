@@ -11,6 +11,7 @@ http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential
 
 how THIS works
 http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
+https://rainsoft.io/gentle-explanation-of-this-in-javascript/#2functioninvocation
 
 prototype inheritance
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
