@@ -44,8 +44,15 @@ JavaScript
 HTML/CSS
 React JS or Angular JS.
 ---------------------------------------------
-handlebars
-	http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/
+HANDLEBARS
+http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/
+
+
+
+GIT
+http://tutorialzine.com/2016/06/learn-git-in-30-minutes/
+
+
 
 foundation
 subversion
@@ -82,7 +89,14 @@ https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/
 
 
 gulp
+
+
 typescript
+http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/
+
+
+
+
 codewars.com
 https://thinkster.io/a-better-way-to-learn-angularjs
 java testing
@@ -105,7 +119,21 @@ fetch(url).then(function(data){
 
 --------------------------------------------
 ES6
-react
+
+REACT
+https://www.fullstackreact.com/30-days-of-react/
+lesson 1: Feb 22, 2017
+lesson 2: Feb 22, 2017
+lesson 3: Feb 22, 2017
+
+-------------------------------------------
+REDUX (state mgmt tool for JS apps)
+The main concept behind Redux is that the entire state of an application is stored in one central location
+
+
+
+---------------------------------------------
+
 passportjs
 redis
 bitnami mean stack cloud
@@ -113,7 +141,7 @@ MEANJS
 backbone
 knockout
 
-Jade
+Jade (pug)
 https://webapplog.com/jade/
 -------------------------------------------------
 DB TOOLS 
