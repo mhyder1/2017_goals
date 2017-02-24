@@ -123,6 +123,9 @@ fetch(url).then(function(data){
 
 --------------------------------------------
 ES6
+https://ponyfoo.com/articles/es6
+https://ponyfoo.com/articles/tagged/es6-in-depth
+
 
 REACT
 https://www.fullstackreact.com/30-days-of-react/
