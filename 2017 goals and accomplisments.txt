@@ -133,6 +133,11 @@ lesson 1: Feb 22, 2017
 lesson 2: Feb 22, 2017
 lesson 3: Feb 22, 2017
 
+https://egghead.io/courses/react-fundamentals
+
+
+
+
 -------------------------------------------
 REDUX (state mgmt tool for JS apps)
 The main concept behind Redux is that the entire state of an application is stored in one central location
@@ -147,6 +152,13 @@ bitnami mean stack cloud
 MEANJS
 backbone
 knockout
+
+PROMISES
+https://developers.google.com/web/fundamentals/getting-started/primers/promises
+
+Angular 2
+https://thinkster.io/tutorials/differences-between-angular-1-and-2
+https://thinkster.io/tutorials/building-real-world-angular-2-apps
 
 Jade (pug)
 https://webapplog.com/jade/
