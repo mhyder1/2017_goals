@@ -1,6 +1,7 @@
 TECHNOLOGIES:
 Graphql
 Vue.js
+Aurelia
 Js generators
 SOLID principles
 TDD
@@ -16,10 +17,6 @@ https://egghead.io/lessons/tools-run-the-basic-npm-scripts (video 1-10: Feb 2, 2
 Promises:
 https://developers.google.com/web/fundamentals/getting-started/primers/promises#whats-all-the-fuss-about
 
------------------------------------------------
-INTRESTING TECH:
-falcor (netflix data fetching)
-
 ------------------------------------------------
 JAVA STUFF:
 Maven 
@@ -32,7 +29,8 @@ Maven
 Spring
 -------------------------------------------------
 SITES:
-Dev.to
+	Dev.to
+	http://todomvc.com
 
 
 -------------------------------------------------
@@ -123,23 +121,28 @@ fetch(url).then(function(data){
 
 --------------------------------------------
 ES6
-https://ponyfoo.com/articles/es6
-https://ponyfoo.com/articles/tagged/es6-in-depth
-
 
 REACT
-https://www.fullstackreact.com/30-days-of-react/
-lesson 1: Feb 22, 2017
-lesson 2: Feb 22, 2017
-lesson 3: Feb 22, 2017
+	https://www.fullstackreact.com/30-days-of-react/
+	lesson 1: Feb 22, 2017
+	lesson 2: Feb 22, 2017
+	lesson 3: Feb 22, 2017
 
+	react succinctly (book): pg 1 - 19 (Feb 27, 2017)
+
+ANGULAR 2
+	Tour of Heores tutorial: part 1 - 3 (Feb 27, 2017)
+				 part 2 - 5 (Feb 28, 2017)
 -------------------------------------------
 REDUX (state mgmt tool for JS apps)
-The main concept behind Redux is that the entire state of an application is stored in one central location
+	https://www.fullstackreact.com/articles/redux-with-mark-erikson/
+	The main concept behind Redux is that the entire state of an application is stored in one central location
 
 
 
 ---------------------------------------------
+AURELIA
+	http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/quick-start/1
 
 passportjs
 redis
@@ -166,8 +169,15 @@ Dev accomplishments
 Books:
 Mastering Javascript
 	chapter 1
-	
 
+Nodejs Succinctlyl
+	Chapter 1 - 3: Feb 24, 2017
+
+
+
+
+	
+-------------------------------------------------
 Articles:
 http://javascriptissexy.com/javascript-objects-in-detail/   January 6, 2017
 
