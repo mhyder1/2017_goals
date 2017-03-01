@@ -130,9 +130,14 @@ REACT
 
 	react succinctly (book): pg 1 - 19 (Feb 27, 2017)
 
+	https://egghead.io/courses/react-fundamentals
+
+
 ANGULAR 2
 	Tour of Heores tutorial: part 1 - 3 (Feb 27, 2017)
 				 part 2 - 5 (Feb 28, 2017)
+
+
 -------------------------------------------
 REDUX (state mgmt tool for JS apps)
 	https://www.fullstackreact.com/articles/redux-with-mark-erikson/
@@ -150,6 +155,13 @@ bitnami mean stack cloud
 MEANJS
 backbone
 knockout
+
+PROMISES
+https://developers.google.com/web/fundamentals/getting-started/primers/promises
+
+Angular 2
+https://thinkster.io/tutorials/differences-between-angular-1-and-2
+https://thinkster.io/tutorials/building-real-world-angular-2-apps
 
 Jade (pug)
 https://webapplog.com/jade/
