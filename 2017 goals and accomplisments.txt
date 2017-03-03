@@ -127,6 +127,7 @@ REACT
 	lesson 1: Feb 22, 2017
 	lesson 2: Feb 22, 2017
 	lesson 3: Feb 22, 2017
+	lesson 4: Mar 02, 2017 (had to style the app my self)
 
 	react succinctly (book): pg 1 - 19 (Feb 27, 2017)
 
@@ -155,6 +156,7 @@ bitnami mean stack cloud
 MEANJS
 backbone
 knockout
+METEOR
 
 PROMISES
 https://developers.google.com/web/fundamentals/getting-started/primers/promises
