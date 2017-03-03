@@ -121,6 +121,11 @@ fetch(url).then(function(data){
 
 --------------------------------------------
 ES6
+	ponyfoo.com: classes
+
+
+
+
 
 REACT
 	https://www.fullstackreact.com/30-days-of-react/
@@ -128,6 +133,7 @@ REACT
 	lesson 2: Feb 22, 2017
 	lesson 3: Feb 22, 2017
 	lesson 4: Mar 02, 2017 (had to style the app my self)
+	lesson 5: Mar 03, 2017
 
 	react succinctly (book): pg 1 - 19 (Feb 27, 2017)
 
