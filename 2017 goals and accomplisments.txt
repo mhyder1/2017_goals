@@ -8,7 +8,21 @@ TDD
 Simple Agile
 LESS
 SCSS
-Python
+
+PYTHON
+	Codecademy Learn Python
+	Lesson 1 & 2 March 12, 2017
+	Lesson 3     March 13, 2017
+
+AWS (cloud)
+NoSQL (Elastic)
+NoSQL (Redis)
+Spring Boot
+LINUX
+	http://linuxsurvival.com/linux-tutorial-introduction/
+
+
+MongoDB Atlas
 
 npm
 https://egghead.io/lessons/tools-run-the-basic-npm-scripts (video 1-10: Feb 2, 2017)
@@ -95,6 +109,8 @@ gulp
 
 typescript
 http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/
+
+JAVASCRIPT30
 
 
 
