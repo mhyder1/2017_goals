@@ -63,4 +63,9 @@ https://www.sitepoint.com/getting-started-with-service-workers/
 
 promise/A+ compliant
 
+THIS keywork in JS
+http://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript
+
 vertically align
+https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/
+https://css-tricks.com/centering-in-the-unknown/

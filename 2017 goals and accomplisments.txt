@@ -19,14 +19,18 @@ https://developers.google.com/web/fundamentals/getting-started/primers/promises#
 
 ------------------------------------------------
 JAVA STUFF:
-Maven 
+MAVEN:
 	http://javapapers.com/jee/download-install-and-setup-maven/   	Feb 2, 2017
 	http://javapapers.com/jee/maven-in-10-minutes/			Feb 2, 2017
 	http://javapapers.com/java/import-maven-project-into-eclipse/	Feb 2, 2017
 	https://maven.apache.org/guides/getting-started/
 	
 
-Spring
+SPRING:
+
+
+
+Spring, Hibernate/JPA, Websphere/Tomcat, REST/SOAP Web Services
 -------------------------------------------------
 SITES:
 	Dev.to
