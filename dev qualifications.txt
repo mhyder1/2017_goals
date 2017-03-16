@@ -26,6 +26,9 @@ Skills – Proficient in:
 · Docker
 · Webpack
 · Linux
+· Socket.IO
+· WebRTC
+· RESTful
 
 
 Qualifications:
