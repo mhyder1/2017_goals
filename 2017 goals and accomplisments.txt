@@ -38,14 +38,18 @@ https://developers.google.com/web/fundamentals/getting-started/primers/promises#
 
 ------------------------------------------------
 JAVA STUFF:
-Maven 
+MAVEN:
 	http://javapapers.com/jee/download-install-and-setup-maven/   	Feb 2, 2017
 	http://javapapers.com/jee/maven-in-10-minutes/			Feb 2, 2017
 	http://javapapers.com/java/import-maven-project-into-eclipse/	Feb 2, 2017
 	https://maven.apache.org/guides/getting-started/
 	
 
-Spring
+SPRING:
+
+
+
+Spring, Hibernate/JPA, Websphere/Tomcat, REST/SOAP Web Services
 -------------------------------------------------
 SITES:
 	Dev.to
@@ -55,6 +59,7 @@ SITES:
 -------------------------------------------------
 BOOKS:
 Clean code by Robert c martin
+https://www.gitbook.com/book/mvilrokx/always-up-to-date-guide-for-modern-javascript-dev/details
 
 
 RESUME SKILLS:
@@ -66,8 +71,8 @@ HTML/CSS
 React JS or Angular JS.
 ---------------------------------------------
 HANDLEBARS
-http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/
-
+http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/ (Completed)
+http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/  March 14, 2017
 
 
 GIT
@@ -105,11 +110,13 @@ http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nod
 
 https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-1
 
+
 WEBPACK (also see Require.js and Browserify)
 https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/
+https://angular.io/docs/ts/latest/guide/webpack.html
 
 
-gulp
+GULP
 
 
 typescript
@@ -164,6 +171,10 @@ REACT
 ANGULAR 2
 	Tour of Heores tutorial: part 1 - 3 (Feb 27, 2017)
 				 part 2 - 5 (Feb 28, 2017)
+
+
+ANGULAR 1.x
+	https://blog.udemy.com/angularjs-tutorial/
 
 
 -------------------------------------------
