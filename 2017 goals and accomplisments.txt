@@ -16,7 +16,12 @@ PYTHON
 
 AWS (cloud)
 NoSQL (Elastic)
+	http://logz.io/blog/elasticsearch-tutorial/
+
+
 NoSQL (Redis)
+	https://try.redis.io/
+
 Spring Boot
 LINUX
 	http://linuxsurvival.com/linux-tutorial-introduction/
