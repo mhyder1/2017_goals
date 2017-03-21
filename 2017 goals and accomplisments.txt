@@ -172,6 +172,9 @@ ANGULAR 2
 	Tour of Heores tutorial: part 1 - 3 (Feb 27, 2017)
 				 part 2 - 5 (Feb 28, 2017)
 
+	Pluralsight-Angular 2 Getting Started
+				Section 1: 00, 01 (March 16, 2017)
+
 
 ANGULAR 1.x
 	https://blog.udemy.com/angularjs-tutorial/
@@ -232,6 +235,8 @@ Nodejs Succinctlyl
 -------------------------------------------------
 Articles:
 http://javascriptissexy.com/javascript-objects-in-detail/   January 6, 2017
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS   March 20, 2017
 
 
 
