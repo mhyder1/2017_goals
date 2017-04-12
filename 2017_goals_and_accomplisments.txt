@@ -8,7 +8,6 @@ TDD
 Simple Agile
 LESS
 SCSS
-<<<<<<< HEAD
 Python
 =======
 Webpack
@@ -33,7 +32,7 @@ LINUX
 
 
 MongoDB Atlas
->>>>>>> c8f96492b27bab839043b6043e79b67793264670
+
 
 npm
 https://egghead.io/lessons/tools-run-the-basic-npm-scripts (video 1-10: Feb 2, 2017)
@@ -128,11 +127,11 @@ GULP
 typescript
 http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/
 
-<<<<<<< HEAD
+
 =======
 JAVASCRIPT30
 	1. JavaScript Drum Kit 	Mar 24, 2017
->>>>>>> c8f96492b27bab839043b6043e79b67793264670
+
 
 
 
