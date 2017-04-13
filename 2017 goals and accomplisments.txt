@@ -171,6 +171,7 @@ REACT
 
 	https://online.reacttraining.com/courses/50507/lectures/760301#/finished
 		14% Mar 26, 2017
+		19% Mar 27, 2017
 
 
 ANGULAR 2
