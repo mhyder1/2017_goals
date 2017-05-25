@@ -324,6 +324,8 @@ https://davidwalsh.name/introduction-static-site-generators May 19, 2017
 
 https://davidwalsh.name/essential-javascript-functions May 19, 2017
 
+http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html May 25, 2017
+
 -----------------------------------------
 Projects:
 
