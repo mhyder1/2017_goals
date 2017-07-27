@@ -1,3 +1,11 @@
+Focused Goals (7/26/2017):
+State Management: Mobx, Redux
+React
+Angular 2/4
+Better understanding of core js principles
+-----------------------------------------
+
+
 TECHNOLOGIES:
 Graphql
 Vue.js
@@ -108,6 +116,12 @@ https://run.qwiklab.com/dashboard
 
 Risingstack Node book
 https://resources.risingstack.com/Node_Hero+-+The+complete+Node.js+tutorial+series+from+RisingStack.pdf
+
+https://blog.risingstack.com/node-js-war-stories-solving-issues-in-production-2/
+
+
+
+
 
 http://www.bradoncode.com/tutorials/mean-stack-tutorial-part-1-setup/
 
