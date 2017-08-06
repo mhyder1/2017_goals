@@ -2,8 +2,14 @@ Focused Goals (7/26/2017):
 State Management: Mobx, Redux
 React
 Angular 2/4
+vue.js
 Better understanding of core js principles
 -----------------------------------------
+Subjects to learn for work:
+Sass
+handlebars
+js design patterns
+------------------------------
 
 
 TECHNOLOGIES:
@@ -74,11 +80,7 @@ BOOKS:
 Clean code by Robert c martin
 https://www.gitbook.com/book/mvilrokx/always-up-to-date-guide-for-modern-javascript-dev/details
 
-Essential Javascript design patterns
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/#introduction
-						End of singleton pattern (May 23, 2017)
 
--------------------------------------------------
 RESUME SKILLS:
 Java/J2EE
 Spring
@@ -213,8 +215,6 @@ ANGULAR 1.x
 	https://blog.udemy.com/angularjs-tutorial/
 
 
-Asynchronous JavaScript with async/await
-	https://egghead.io/courses/asynchronous-javascript-with-async-await (May 8, 2017)
 -------------------------------------------
 REDUX (state mgmt tool for JS apps)
 	https://www.fullstackreact.com/articles/redux-with-mark-erikson/
@@ -271,8 +271,7 @@ https://github.com/ryanmcdermott/clean-code-javascript
 
 	
 -------------------------------------------------
-ARTICLES:
-
+Articles:
 http://javascriptissexy.com/javascript-objects-in-detail/   January 6, 2017
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS   March 20, 2017
@@ -332,14 +331,6 @@ http://mithril.js.org/simple-application.html  Feb 10, 2017
 Programming interveiws exposed(book)
 chapter 1: Feb 13, 2017
 chapter 2: Feb 13, 2017
-
-https://davidwalsh.name/impostor-syndrome May 19, 2017
-
-https://davidwalsh.name/introduction-static-site-generators May 19, 2017
-
-https://davidwalsh.name/essential-javascript-functions May 19, 2017
-
-http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html May 25, 2017
 
 -----------------------------------------
 Projects:
