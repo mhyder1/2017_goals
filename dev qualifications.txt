@@ -57,4 +57,24 @@ Responsibilities Include:
 •	Build code in containers (Docker)
 •	Work in a Test Driven Development and Continuous Integration environment
 ----------------------------------------------------
+USAA Qualifications
 
+MINIMUM REQUIREMENTS
+
+Bachelor's degree in Computer Science or STEM (Science, Technology, Engineering, Math) majors or 4 additional years of related experience beyond the minimum required may be substituted in lieu of a degree.  
+AND, 6+ years of software development experience with at least 2 years in CSS3 and HTML5, JavaScript and JavaScript libraries/tools such as JSON, AJAX, React, AngularJS, JQuery, and experience with CSS libraries/tools such as Bootstrap.
+PREFERRED
+
+3+ years of experience with a JavaScript framework like, React, Redux, Angular, or Backbone.
+2+ years of experience working with Agile methodology
+Proficiency in translating front-end mockups and wireframes into functioning applications
+2+ years’ experience in designing/coding for high availability and performance.
+2+ years of experience with rapid prototyping / simulations / iterative design
+Demonstrated experience supporting accessibility requirements from ADA (Section 508 subset of a11y).
+6+ years of experience on closures/Prototypes/JS.this and variable scope
+Understanding of HTTP interaction with browsers (request types, request headers, synchronous/asynchronous requests).
+Understanding of page rendering orchestration within a browser
+Proficiency at using browser development tools within each major browser
+Delivering software using a container based infrastructure
+2+ years of experience with Gradle, GIT, GitHUB, GITLab, etc. around continuous integration and continuous delivery infrastructure
+Experience testing in Selenium frameworks
